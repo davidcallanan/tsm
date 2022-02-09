@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"outDir": "dist",
+		"moduleResolution": "node",
+		"target": "ESNext",
+		"lib": ["ESNext"],
+		"types": ["node"],
+		"typeRoots": ["../node_modules/@types"],
+		"allowSyntheticDefaultImports": true,
+	},
+	"include": [
+		"src/**/*"
+	]
+}
