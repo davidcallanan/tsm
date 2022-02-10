@@ -111,4 +111,4 @@ Currently using old versions because this project was in use a long time ago for
 
 ## License
 
-I plan on making this open source down the road.
+See `LICENSE` file for details.
