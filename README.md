@@ -60,7 +60,7 @@ The preferred method is generally to use a symlinked directory to avoid duplicat
 
 Examples: You could include a module's source code directly in your project, you could use git submodules, you could symlink to a global store on your device, you could symlink to modules in a monorepo, you could use an existing package manager to automatically retrieve module source code, etc.
 
-Note: If you are a git user, you'll need to enable to symlinks option in git if you want to keep any symlinks intact (which is likely in monorepos where there is no automated linking step).
+Note: If you are a git user, you'll need to enable the symlinks option in git if you want to keep any symlinks intact (which is likely in monorepos where there is no automated linking step).
 
 You can import interface-only modules using the `import type` statement to get type information.
 
